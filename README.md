@@ -1,16 +1,16 @@
-### Hi there 👋
+# Hello, I am TenCreator#2627
 
-<!--
-**BuyLabs/BuyLabs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Current projects
+• Catty Core
+• unnamed web store
+• MC Live
 
-Here are some ideas to get you started:
+## Languages
+• LUA
+• HTML
+• CSS
+• JavaScript
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Links
+https://MCLive.xyz
+https://discord.gg/scrp 
