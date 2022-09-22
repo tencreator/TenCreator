@@ -1,16 +1,16 @@
 # Hello, I am TenCreator#2627
 
 ## Current projects
-• Catty Core
-• unnamed web store
-• MC Live
+• Catty Core <br/>
+• unnamed web store <br/>
+• MC Live <br/>
 
 ## Languages
-• LUA
-• HTML
-• CSS
+• LUA <br/>
+• HTML <br/>
+• CSS <br/>
 • JavaScript
 
 ## Links
-https://MCLive.xyz
+https://MCLive.xyz <br/>
 https://discord.gg/scrp 
