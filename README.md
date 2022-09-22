@@ -9,7 +9,15 @@
 • LUA <br/>
 • HTML <br/>
 • CSS <br/>
-• JavaScript
+• JavaScript <br/>
+
+|Language|Rating|
+|--------|------|
+|LUA|⭐️⭐️⭐️⭐️|
+|HTML|⭐️⭐️⭐️⭐️⭐️|
+|CSS|⭐️⭐️⭐️⭐️⭐️|
+|JavaScript|⭐️⭐️|
+
 
 ## Links
 https://MCLive.xyz <br/>
