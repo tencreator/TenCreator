@@ -19,6 +19,16 @@
 |JavaScript|⭐️⭐️⭐️⭐️|
 |C#||
 
+|Framework|Rating|
+|--------|------|
+|ReactJS|⭐️⭐️|
+|ExpressJS|⭐️⭐️⭐️|
+
+## Languages I would like to learn
+• TypeScript
+• Python
+• C#
+• C++
 
 ## Links
 https://MCLive.xyz <br/>
