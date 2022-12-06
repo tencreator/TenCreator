@@ -25,9 +25,9 @@
 |ExpressJS|⭐️⭐️⭐️|
 
 ## Languages I would like to learn
-• TypeScript
-• Python
-• C#
+• TypeScript <br/>
+• Python <br/>
+• C# <br/>
 • C++
 
 ## Links
