@@ -1,9 +1,8 @@
 # Hello, I am TenCreator#2627
 
 ## Current projects
-• Catty Core <br/>
-• unnamed web store <br/>
-• MC Live <br/>
+• License System <br/>
+• Duty Logs <br/>
 
 ## Languages
 • LUA <br/>
