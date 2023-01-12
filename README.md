@@ -17,12 +17,12 @@
 |HTML|⭐️⭐️⭐️⭐️⭐️|
 |CSS|⭐️⭐️⭐️⭐️|
 |JavaScript|⭐️⭐️⭐️⭐️|
-|C#||
+|C#|⭐️⭐️ |
 
 |Framework|Rating|
 |--------|------|
 |ReactJS|⭐️⭐️|
-|ExpressJS|⭐️⭐️⭐️|
+|ExpressJS|⭐️⭐️⭐️⭐️|
 
 ## Languages I would like to learn
 • TypeScript <br/>
