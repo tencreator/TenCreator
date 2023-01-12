@@ -10,6 +10,7 @@
 • HTML <br/>
 • CSS <br/>
 • JavaScript <br/>
+• C# <br/>
 
 |Language|Rating|
 |--------|------|
@@ -27,9 +28,7 @@
 ## Languages I would like to learn
 • TypeScript <br/>
 • Python <br/>
-• C# <br/>
 • C++
 
 ## Links
-https://MCLive.xyz <br/>
-https://discord.gg/scrp 
+https://MCLive.xyz 
