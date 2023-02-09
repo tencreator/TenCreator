@@ -5,7 +5,7 @@
 • Duty Logs <br/>
 
 ## Languages
-[Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tencreator&layout=compact)
+![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tencreator&layout=compact)
 
 
 |Language|Rating|
@@ -27,4 +27,4 @@
 • C++
 
 ## Stats
-[General](https://github-readme-stats.vercel.app/api?username=tencreator&show_icons=true&theme=radical)
+![General](https://github-readme-stats.vercel.app/api?username=tencreator&show_icons=true&theme=radical)
