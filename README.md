@@ -5,11 +5,8 @@
 • Duty Logs <br/>
 
 ## Languages
-• LUA <br/>
-• HTML <br/>
-• CSS <br/>
-• JavaScript <br/>
-• C# <br/>
+[Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tencreator&layout=compact)
+
 
 |Language|Rating|
 |--------|------|
@@ -29,5 +26,5 @@
 • Python <br/>
 • C++
 
-## Links
-https://MCLive.xyz 
+## Stats
+[General](https://github-readme-stats.vercel.app/api?username=tencreator&show_icons=true&theme=radical)
