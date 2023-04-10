@@ -5,7 +5,7 @@
 • Duty Logs <br/>
 
 ## Languages
-![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tencreator&layout=compact)
+![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tencreator&layout=compact&theme=radical)
 
 
 |Language|Rating|
