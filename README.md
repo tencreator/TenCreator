@@ -1,9 +1,5 @@
 # Hello, I am TenCreator#2627
 
-## Current projects
-• License System <br/>
-• Duty Logs <br/>
-
 ## Languages
 ![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tencreator&layout=compact&theme=radical)
 
