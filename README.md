@@ -10,6 +10,8 @@
 |HTML|⭐️⭐️⭐️⭐️⭐️|
 |CSS|⭐️⭐️⭐️⭐️|
 |JavaScript|⭐️⭐️⭐️⭐️|
+|TypeScript|⭐️⭐️⭐️⭐️⭐️|
+|Python|⭐️|
 |C#|⭐️⭐️ |
 
 |Framework|Rating|
@@ -18,9 +20,7 @@
 |ExpressJS|⭐️⭐️⭐️⭐️|
 
 ## Languages I would like to learn
-• TypeScript <br/>
-• Python <br/>
-• C++
+- C++
 
 ## Stats
 ![General](https://github-readme-stats.vercel.app/api?username=tencreator&show_icons=true&theme=radical)
