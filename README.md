@@ -25,6 +25,7 @@
 ## Stats
 ![General](https://github-readme-stats.vercel.app/api?username=tencreator&show_icons=true&theme=radical)
 
+## Coding stats
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-33%20mins-blue)
 
