@@ -12,7 +12,7 @@ jobs:
       - uses: FAXES/waka-readme-stats@master
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKA_KEY }}
-          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}
           SHOW_LOC_CHART: False
           SHOW_UPDATED_DATE: False
           COMMIT_MESSAGE: "Updated readme statistics"
