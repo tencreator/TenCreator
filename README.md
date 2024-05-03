@@ -1,4 +1,4 @@
-# Hello, I am TenCreator#2627
+# Hello, I am TenCreator
 
 ## Status
 ![status](https://api.statusbadges.me/badge/status/518334475038359555?simple=true&style=for-the-badge)
