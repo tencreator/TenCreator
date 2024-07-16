@@ -41,7 +41,7 @@
 
 > 📦 ? Used in GitHub's Storage 
  > 
-> 🏆 110 Contributions in the Year 2024
+> 🏆 0 Contributions in the Year 2024
  > 
 > 💼 Opted to Hire
  > 
