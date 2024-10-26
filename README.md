@@ -4,7 +4,6 @@
 ![status](https://api.statusbadges.me/badge/status/518334475038359555?simple=true&style=for-the-badge)
 ![playing](https://api.statusbadges.me/badge/playing/518334475038359555?style=for-the-badge)
 ![vscode](https://api.statusbadges.me/badge/vscode/518334475038359555?style=for-the-badge)
-![crunchyroll](https://api.statusbadges.me/badge/crunchyroll/518334475038359555?style=for-the-badge)
 
 ## Languages
 ![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tencreator&layout=compact&theme=radical)
@@ -22,16 +21,20 @@
 
 |Framework|Rating|
 |--------|------|
-|ReactJS|⭐️⭐️|
+|ReactJS|⭐️⭐️⭐|
 |ExpressJS|⭐️⭐️⭐️⭐️|
+|NextJS|⭐️⭐️⭐⭐️|
 
 ## Languages I would like to learn
 - C++
+- Java
 
 ## Stats
 ![General](https://github-readme-stats.vercel.app/api?username=tencreator&show_icons=true&theme=radical)
 
 ## Coding stats
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tencreator)
+
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-182%20hrs%2058%20mins-blue)
 
