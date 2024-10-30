@@ -43,6 +43,8 @@
 
 > 📦 ? Used in GitHub's Storage 
  > 
+> 🏆 125 Contributions in the Year 2024
+ > 
 > 💼 Opted to Hire
  > 
 > 📜 53 Public Repositories 
