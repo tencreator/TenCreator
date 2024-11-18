@@ -1,5 +1,9 @@
 # Hello, I am TenCreator
 
+## I'm currrntly working on
+- [Emerald Coast Radio](https://listen.emeraldcoastrp.com/)
+- [ECRP 3.0](http://github.com/Emerald-Coast-Roleplay/)
+
 ## Status
 ![status](https://api.statusbadges.me/badge/status/518334475038359555?simple=true&style=for-the-badge)
 ![playing](https://api.statusbadges.me/badge/playing/518334475038359555?style=for-the-badge)
