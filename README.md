@@ -39,7 +39,7 @@
 ## Coding stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-401%20hrs-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-401%20hrs%2055%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.9%20million%20lines%20of%20code-blue)
 
@@ -47,7 +47,7 @@
 
 > 📦 ? Used in GitHub's Storage 
  > 
-> 🏆 29 Contributions in the Year 2025
+> 🏆 30 Contributions in the Year 2025
  > 
 > 💼 Opted to Hire
  > 
