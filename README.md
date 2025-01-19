@@ -39,7 +39,7 @@
 ## Coding stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-415%20hrs%203%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-415%20hrs%2058%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.9%20million%20lines%20of%20code-blue)
 
@@ -104,7 +104,7 @@ WSL                      2 mins              ░░░░░░░░░░░�
 **I Mostly Code in TypeScript** 
 
 ```text
-TypeScript               28 repos            ████████░░░░░░░░░░░░░░░░░   33.33 % 
+TypeScript               27 repos            ████████░░░░░░░░░░░░░░░░░   32.14 % 
 CSS                      18 repos            █████░░░░░░░░░░░░░░░░░░░░   21.43 % 
 JavaScript               16 repos            █████░░░░░░░░░░░░░░░░░░░░   19.05 % 
 Lua                      14 repos            ████░░░░░░░░░░░░░░░░░░░░░   16.67 % 
