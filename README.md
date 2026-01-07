@@ -1,16 +1,34 @@
-## Hi there 👋
+# Hello, I am TenCreator
 
-<!--
-**tencreator/TenCreator** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## I'm currrntly working on
+- [Illusion Radio](https://illusionradio.co.uk/)
+- [ECRP 3.0](http://github.com/Emerald-Coast-Roleplay/)
 
-Here are some ideas to get you started:
+## Status
+![status](https://api.statusbadges.me/badge/status/518334475038359555?simple=true&style=for-the-badge)
+![playing](https://api.statusbadges.me/badge/playing/518334475038359555?style=for-the-badge)
+![vscode](https://api.statusbadges.me/badge/vscode/518334475038359555?style=for-the-badge)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Languages
+![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tencreator&layout=compact&theme=radical)
+
+
+|Language|Rating|
+|--------|------|
+|LUA|⭐️⭐️⭐️⭐️|
+|HTML|⭐️⭐️⭐️⭐️⭐️|
+|CSS|⭐️⭐️⭐️⭐️|
+|JavaScript|⭐️⭐️⭐️⭐️|
+|TypeScript|⭐️⭐️⭐️⭐️⭐️|
+|Python|⭐️|
+|C#|⭐️⭐️ |
+
+|Framework|Rating|
+|--------|------|
+|ReactJS|⭐️⭐️⭐|
+|ExpressJS|⭐️⭐️⭐️⭐️|
+|NextJS|⭐️⭐️⭐⭐️|
+
+## Languages I would like to learn
+- C++
+- Java
